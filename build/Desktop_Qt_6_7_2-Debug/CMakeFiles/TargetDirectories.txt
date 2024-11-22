@@ -1,0 +1,9 @@
+/home/iker_ubide/UNI/QT/template-project/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/template-project.dir
+/home/iker_ubide/UNI/QT/template-project/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/edit_cache.dir
+/home/iker_ubide/UNI/QT/template-project/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/rebuild_cache.dir
+/home/iker_ubide/UNI/QT/template-project/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/list_install_components.dir
+/home/iker_ubide/UNI/QT/template-project/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/install.dir
+/home/iker_ubide/UNI/QT/template-project/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/install/local.dir
+/home/iker_ubide/UNI/QT/template-project/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/install/strip.dir
+/home/iker_ubide/UNI/QT/template-project/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/template-project_autogen_timestamp_deps.dir
+/home/iker_ubide/UNI/QT/template-project/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/template-project_autogen.dir

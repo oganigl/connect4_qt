@@ -1,0 +1,9 @@
+# ninja log v5
+2	352	1731674257802940790	template-project_autogen/timestamp	2c32069d6651f539
+2	352	1731674257802940790	template-project_autogen/mocs_compilation.cpp	2c32069d6651f539
+2	352	1731674257802940790	/home/iker_ubide/UNI/QT/template-project/build/Desktop_Qt_6_7_2-Debug/template-project_autogen/timestamp	2c32069d6651f539
+2	352	1731674257802940790	/home/iker_ubide/UNI/QT/template-project/build/Desktop_Qt_6_7_2-Debug/template-project_autogen/mocs_compilation.cpp	2c32069d6651f539
+352	1966	1731674259418948531	CMakeFiles/template-project.dir/template-project_autogen/mocs_compilation.cpp.o	48d1fdbdbcfdd514
+352	1996	1731674259449948679	CMakeFiles/template-project.dir/main.cpp.o	547bbd7a7e47eb1e
+353	2021	1731674259474948799	CMakeFiles/template-project.dir/mainwindow.cpp.o	43a92ca99cb0c99d
+2021	2326	1731674259777950251	template-project	2e0a45ecb08d39a1
